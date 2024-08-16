@@ -10,6 +10,6 @@ Meu nome é Sabrina Gonçalves
 
 00001121446784@al.educacao.sp.gov.br
 
-@eaaSabrina
+@eaasabrina_
 
 ![](https://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gif)
